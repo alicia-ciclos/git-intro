@@ -1,0 +1,2 @@
+Esto es el contenido del archivo practica.txt
+
